@@ -254,7 +254,7 @@ nav.close~.dashboard .top {
 }
 
 .content {
-    height: 720px;
+    height: 950px;
     /* width: 935px; */
     width: 100%;
     /* border-radius: 20px; */
@@ -329,102 +329,9 @@ input {
 #slide5:checked ~ .s1 {
     margin-left: -80%;
 } 
-/* .banner {
-    position: relative;
-    padding: 30px;
-    max-width: 100%;
-    margin: 0 auto;
-}
-
-.gallery-wrapper {
-    overflow-x: auto;
-}
-
-.arrow-left{
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: auto;
-        bottom: 0;
-        font-size: 20px;
-        line-height: 250px;
-        width: 40px;
-        color: #3cc6e8;
-        transition: all 600ms ease-in-out;
-        background: linear-gradient(to left, transparent 0%, black 200%);
-        opacity: 0.1;
-        cursor: pointer;
-        border: none;
-        border-radius: 40px 0px 0px 40px;
-}
-.arrow-right,
-.arrow-left {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: auto;
-    bottom: 0;
-    font-size: 20px;
-    line-height: 250px;
-    width: 40px;
-    color: #3cc6e8;
-    transition: all 600ms ease-in-out;
-    background: linear-gradient(to left, transparent 0%, black 200%);
-    opacity: 0.1;
-    cursor: pointer;
-    border: none; */
-    /* border-radius: 0px 40px 40px 0px; */
-/* }
-
-.arrow-left:hover,
-.arrow-right:hover {
-    opacity: 1;
-}
-
-.arrow-right {
-    right: 0;
-    left: auto;
-    text-align: right;
-    background: linear-gradient(to right, transparent 0%, black 200%);
-}
-
-.gallery {
-    display: flex;
-    flex-flow: row nowrap;
-    gap: 15px;
-}
-
-.item {
-    width: 350px;
-    height: 350px;
-    flex-shrink: 0;
-    transition: all 600ms ease-in-out;
-    opacity: 0.5;
-}
-
-.current-item {
-    opacity: 1;
-}
-
-.gallery-wrapper::-webkit-scrollbar {
-    display: none;
-} */
-
-/* Hide scrollbar for IE, Edge and Firefox */
-/* .gallery-wrapper {
-    -ms-overflow-style: none; */
-    /* IE and Edge */
-    /* scrollbar-width: none; */
-    /* Firefox */
-/* }  */
-
-/* img {
-    width: 100%;
-} */
-
 .row {
-    margin-top: 400px;
-    padding: 0 20px;
+    margin-top: 500px;
+    padding: 0 10px;
     display: table;
 
 }
